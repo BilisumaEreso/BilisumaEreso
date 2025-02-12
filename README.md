@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning web development
-- 💬 Ask me about anything and you'll have answer
+- 💬 Ask anything about me and you'll have answer
 <!--
 **BilisumaEreso/BilisumaEreso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
